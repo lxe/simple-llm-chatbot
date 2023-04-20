@@ -2,7 +2,7 @@
 
 A minimalistic chatbot script to experiment with LLMs. 
 
-![]('./screenshot.png')
+![./screenshot.png](https://raw.githubusercontent.com/lxe/simple-llm-chatbot/master/screenshot.png)
 
 ### Usage
 
